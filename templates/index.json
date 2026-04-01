@@ -81,7 +81,7 @@
       "name": "Featured collections",
       "settings": {
         "subheading": "Your title",
-        "title": "Collection",
+        "title": "",
         "content": "",
         "products_count": 8,
         "products_per_row": 4,
@@ -99,10 +99,10 @@
         "ai_gen_block_adef03d_gUiEjT": {
           "type": "ai_gen_block_adef03d",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "Shop now and save 20%",
-            "text_3": "New arrivals every week",
-            "text_4": "100% satisfaction guaranteed",
+            "text_1": "Delivery All Over Lebanon",
+            "text_2": "Mexa",
+            "text_3": "Delivery All Over Lebanon",
+            "text_4": "Mexa",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -137,8 +137,8 @@
       "name": "Rich text",
       "settings": {
         "subheading": "",
-        "title": "About Nazzemni",
-        "content": "<p>At <strong>Nazzemni</strong>, we believe that staying organized should be simple, stylish, and stress-free. Our mission is to create practical everyday essentials that make your life easier — whether you’re at home, at work, or on the move.</p><p>We focus on thoughtfully designed products that combine functionality, quality, and modern style. From travel accessories to daily organizers, every Nazzemni item is made to help you carry what you need, neatly and confidently.</p><p>We understand that your essentials matter, which is why we prioritize durability, convenience, and elegant design in everything we offer. Our goal is to help you feel prepared, organized, and effortlessly put together — wherever life takes you.</p><p><strong>Nazzemni — Organize Your Day, Elevate Your Style.</strong> ✨</p>",
+        "title": "About Mexa",
+        "content": "<p>We’re here to make everyday life simpler, faster, and less stressful.</p><p>Our mission is to bring you practical, reliable products that solve real problems when you need it most. Whether you're at home, on the road, or on the go, we focus on solutions that save time, reduce hassle, and give you peace of mind.</p><p>We believe the best products aren’t just useful — they’re dependable when it matters.</p>",
         "button_text": "",
         "button_link": "",
         "background_type": "full_width",
@@ -157,10 +157,10 @@
         "ai_gen_block_adef03d_9z8MYc": {
           "type": "ai_gen_block_adef03d",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "Shop now and save 20%",
-            "text_3": "New arrivals every week",
-            "text_4": "100% satisfaction guaranteed",
+            "text_1": "Simple tools. Real solutions.",
+            "text_2": "Simple tools. Real solutions.",
+            "text_3": "Simple tools. Real solutions.",
+            "text_4": "Simple tools. Real solutions.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -199,22 +199,22 @@
         "question_7eC8nD": {
           "type": "question",
           "settings": {
-            "title": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "How long does shipping take?",
+            "answer": "<p>Shipping times typically range between 5–7 business days depending on your location. </p>"
           }
         },
         "question_VmxUz8": {
           "type": "question",
           "settings": {
-            "title": "How long will it take to get my order?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "How can I contact customer support?",
+            "answer": "<p>You can reach our support team via Whatsapp , and we’ll get back to you within 24 hours.<br/></p>"
           }
         },
         "question_EhJHtG": {
           "type": "question",
           "settings": {
-            "title": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Are your products high quality?",
+            "answer": "<p>We carefully select our products to ensure they meet our standards for reliability, functionality, and value.</p>"
           }
         }
       },

@@ -447,36 +447,36 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Is the pouch suitable for travel?",
-            "answer": "<p>Yes! The Nazzemni Makeup Pouch is lightweight, compact, and travel-friendly — ideal for vacations, business trips, gym bags, or everyday use.</p>"
+            "title": "How fast can it inflate a tire?",
+            "answer": "<p>It’s designed for speed — most tires can be inflated in under a minute depending on size and pressure level.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it have compartments inside?",
-            "answer": "<p>Absolutely. It features multiple partitions to help you keep items organized and easy to find.</p>"
+            "title": "Is it easy to use?",
+            "answer": "<p>Yes. Simply connect it to your tire, turn it on, and let it do the work — no technical skills needed.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "Can it be used for things other than makeup?",
-            "answer": "<p>Of course! Many customers use it for toiletries, tech accessories, stationery, or small personal items.<br/></p>"
+            "title": "Can I keep it in my car?",
+            "answer": "<p>Absolutely. Its compact design makes it perfect for storing in your car so it’s always ready when you need it.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Is this a good gift option?",
-            "answer": "<p>Definitely. Its stylish design and practicality make it a great gift for friends, family, or anyone who loves staying organized.</p>"
+            "title": "Is it suitable for emergencies?",
+            "answer": "<p>Yes — it’s specifically designed to help you handle sudden tire pressure issues quickly and safely.</p>"
           }
         },
         "question_Pzgd7t": {
           "type": "question",
           "settings": {
-            "title": "Is it lightweight to carry?",
-            "answer": "<p>Yes, it’s designed to be portable and easy to carry without adding bulk to your bag. </p>"
+            "title": "Can beginners use it?",
+            "answer": "<p>Definitely. It’s built to be simple and straightforward for anyone to use, even in stressful situations.</p>"
           }
         }
       },
